@@ -37,3 +37,9 @@ Built as part of the Frontend Developer Intern assignment.
 cd backend
 npm install
 npm run dev
+
+### Frontend
+
+cd frontend
+npm install
+npm run dev
